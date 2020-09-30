@@ -1,3 +1,10 @@
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 .sidebar {
     margin: 0;
     padding: 0;
@@ -16,6 +23,7 @@
     padding: 12px;
     text-decoration: none;
     font-family: Montserrat;
+    text-decoration: none;
   }
   
   /* Active/current link */
@@ -23,6 +31,7 @@
     background-color: #0096c7;
     color: white;
     font-family: Montserrat;
+    text-decoration: none;
   }
   
   /* Links on mouse-over */
@@ -30,6 +39,7 @@
     background-color: #0096c7;
     color: white;
     font-family: Montserrat;
+    text-decoration: none;
   }
   
   /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
